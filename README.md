@@ -13,4 +13,4 @@ Just fork this project and customize.
 
 ## Installation
 
-See INSTALLATION.md
+See [INSTALLATION.md](INSTALLATION.md)
